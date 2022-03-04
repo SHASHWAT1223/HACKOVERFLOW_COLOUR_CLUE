@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.flexing2 {
+  width: 100%;
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.onea {
+  background-color: rgb(206, 206, 34);
+  height: 150px;
+}
+
+.twoa {
+  background: white;
+  height: 60px;
+}
+
+.threea {
+  background: rgb(34, 37, 41);
+  height: 359px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-style: normal;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.w3-btn {
+  color: rgb(102, 34, 34);
+  font-weight: bold;
+}
+.w3-btn:hover {
+  background-color: rgb(119, 57, 57);
+  color: white;
+}
+
+.w3-new {
+  border: none;
+  position: fixed;
+  left: 400px;
+  height: 60px;
+  font-size: 20px;
+}
+
+.w3-easy {
+  border: none;
+  position: fixed;
+  left: 730px;
+  height: 60px;
+  font-size: 20px;
+  top: 150px;
+}
+
+.w3-hard {
+  border: none;
+  position: fixed;
+  left: 800px;
+  height: 60px;
+  font-size: 20px;
+  top: 150px;
+}
+
+h3 {
+  text-align: center;
+  position: relative;
+  color: white;
+  font-style: normal;
+  font-weight: bolder;
+  margin-top: 10px;
+  font-size: 25px;
+}
+h5 {
+  text-align: center;
+  color: rgb(19, 14, 14);
+  font-style: normal;
+  font-size: 40px;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-style: normal;
+  font-weight: lighter;
+  margin-top: 4px;
+  font-size: 69px;
+}
+
+.w3-button {
+  height: 105px;
+  width: 105px;
+  background-color: rgb(154, 241, 82);
+  border-radius: 10px;
+  border: none;
+}
+
+.w3-easya {
+  position: relative;
+  left: 450px;
+  top: 25px;
+}
+
+.w3-easyb {
+  position: relative;
+  left: 475px;
+  top: 25px;
+}
+
+.w3-easyc {
+  position: relative;
+  left: 500px;
+  top: 25px;
+}
+
+.w3-harda {
+  position: relative;
+  top: 150px;
+  left: 122px;
+  background: rgb(34, 37, 41);
+}
+
+.w3-hardb {
+  position: relative;
+  top: 150px;
+  left: 147px;
+  background: rgb(34, 37, 41);
+}
+
+.w3-hardc {
+  position: relative;
+  top: 150px;
+  left: 172px;
+  background: rgb(34, 37, 41);
+}
+
+img {
+  height: 60px;
+  left: 600px;
+  position: relative;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+.hidden1 {
+  display: none;
+}
+
+.try-again {
+  position: relative;
+  left: 580px;
+  font-size: 20px;
+  top: 15px;
+}
+
+h4 {
+  color: #138808;
+}
+
+.w3-again {
+  border: none;
+  position: fixed;
+  left: 400px;
+  height: 60px;
+  font-size: 20px;
+}
